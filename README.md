@@ -5,6 +5,7 @@ This project simulates how atmospheric pressure decreases with altitude using th
 
 
 Features
+
 ✔ User input-based altitude calculation  
 ✔ Atmospheric pressure estimation using ISA model  
 ✔ Graph visualization using matplotlib  
